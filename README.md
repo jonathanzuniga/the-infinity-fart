@@ -1,1 +1,3 @@
-# infinite-fart
+# Infinity Fart
+
+Coming soon.

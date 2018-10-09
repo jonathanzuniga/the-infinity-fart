@@ -1,11 +1,11 @@
-var APP_PREFIX = 'infinite-fart_'       // Identifier for this app (this needs to be consistent across every cache update)
+var APP_PREFIX = 'the-infinity-fart_'       // Identifier for this app (this needs to be consistent across every cache update)
 var VERSION = 'version_01'              // Version of the off-line cache (change this value everytime you want to update cache)
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
-  '/infinite-fart/',                    // If you have separate JS/CSS files,
-  '/infinite-fart/index.html',          // add path to those files here
-  '/infinite-fart/fartscroll.js',
-  '/infinite-fart/scripts.js'
+  '/the-infinity-fart/',                    // If you have separate JS/CSS files,
+  '/the-infinity-fart/index.html',          // add path to those files here
+  '/the-infinity-fart/fartscroll.js',
+  '/the-infinity-fart/scripts.js'
 ]
 
 // Respond with cached resources

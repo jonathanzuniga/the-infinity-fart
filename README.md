@@ -1,3 +1,3 @@
 # The Infinity Fart
 
-Coming soon.
+[Demo](https://jonathanzuniga.github.io/the-infinity-fart/)

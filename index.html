@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8" />
+    <head>
+        <meta charset="utf-8" />
 
-		<link rel="canonical" href="https://jonathanzuniga.github.io/infinite-fart/" />
+        <link
+            rel="canonical"
+            href="https://jonathanzuniga.github.io/the-infinity-fart/"
+        />
 
-		<title>Infinity Fart</title>
-	</head>
-	<body>
-		<div id="status"></div>
+        <title>The Infinity Fart</title>
+    </head>
+    <body>
+        <div id="status"></div>
+        <div id="infinite" style="height: 2000px"></div>
 
-		<div id="infinite" style="height: 2000px"></div>
+        <script type="text/javascript" src="fartscroll.js"></script>
+        <script type="text/javascript" src="scripts.js"></script>
 
-		<script type="text/javascript" src="fartscroll.js"></script>
-		<script type="text/javascript" src="scripts.js"></script>
-
-		<script type="text/javascript">
-			// register ServiceWorker, remember to use absolute path!
-			if (navigator.serviceWorker) {
-				navigator.serviceWorker.register('/infinite-fart/sw.js', { scope: '/infinite-fart/' })
-			}
-		</script>
-	</body>
+        <script type="text/javascript">
+            // register ServiceWorker, remember to use absolute path!
+            if (navigator.serviceWorker) {
+                navigator.serviceWorker.register("/the-infinity-fart/sw.js", {
+                    scope: "/the-infinity-fart/"
+                });
+            }
+        </script>
+    </body>
 </html>

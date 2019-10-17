@@ -1,3 +1,3 @@
 # The Infinity Fart
 
-[Demo](https://jonathanzuniga.github.io/the-infinity-fart/)
+[☣️☣️☣️ Smelly demo ☣️☣️☣️](https://jonathanzuniga.github.io/the-infinity-fart/)
